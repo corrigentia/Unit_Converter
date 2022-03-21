@@ -1,0 +1,19 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun findCar(): String {
+        val maxSpeed = readln().toInt()
+        val accTime = readln().toInt()
+
+        // write your code here
+
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/18769#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sat, 19 Mar 2022 20:05:19 UTC
+record: -1
