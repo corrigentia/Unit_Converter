@@ -10,6 +10,37 @@
       <module name="Unit_Converter.Topics-Errors_in_programs-Statements.main" target="11" />
       <module name="Unit_Converter.Topics-Errors_in_programs-Theory.main" target="11" />
       <module name="Unit_Converter.Topics-Errors_in_programs-What's_wrong.main" target="11" />
+      <module name="Unit_Converter.Topics-For_loop_and_arrays-Check_the_numbers.main" target="11" />
+      <module name="Unit_Converter.Topics-For_loop_and_arrays-Counting.main" target="11" />
+      <module name="Unit_Converter.Topics-For_loop_and_arrays-Cyclically_shifting_elements.main" target="11" />
+      <module name="Unit_Converter.Topics-For_loop_and_arrays-Down_to.main" target="11" />
+      <module name="Unit_Converter.Topics-For_loop_and_arrays-Find_the_max.main" target="11" />
+      <module name="Unit_Converter.Topics-For_loop_and_arrays-Individual_taxes.main" target="11" />
+      <module name="Unit_Converter.Topics-For_loop_and_arrays-Is_it_here.main" target="11" />
+      <module name="Unit_Converter.Topics-For_loop_and_arrays-Iteration.main" target="11" />
+      <module name="Unit_Converter.Topics-For_loop_and_arrays-Just_checking.main" target="11" />
+      <module name="Unit_Converter.Topics-For_loop_and_arrays-Right_Rotation.main" target="11" />
+      <module name="Unit_Converter.Topics-For_loop_and_arrays-Step.main" target="11" />
+      <module name="Unit_Converter.Topics-For_loop_and_arrays-Sum_of_numbers.main" target="11" />
+      <module name="Unit_Converter.Topics-For_loop_and_arrays-Theory.main" target="11" />
+      <module name="Unit_Converter.Topics-For_loop_and_arrays-Triples.main" target="11" />
+      <module name="Unit_Converter.Topics-Multi-dimensional_array-Accordance.main" target="11" />
+      <module name="Unit_Converter.Topics-Multi-dimensional_array-Corners.main" target="11" />
+      <module name="Unit_Converter.Topics-Multi-dimensional_array-Correct_statements.main" target="11" />
+      <module name="Unit_Converter.Topics-Multi-dimensional_array-Cube_of_zeros.main" target="11" />
+      <module name="Unit_Converter.Topics-Multi-dimensional_array-Indexing_rules.main" target="11" />
+      <module name="Unit_Converter.Topics-Multi-dimensional_array-Initialization_rules.main" target="11" />
+      <module name="Unit_Converter.Topics-Multi-dimensional_array-Kotlin_arrays.main" target="11" />
+      <module name="Unit_Converter.Topics-Multi-dimensional_array-Practical_applications.main" target="11" />
+      <module name="Unit_Converter.Topics-Multi-dimensional_array-Shapeshifter.main" target="11" />
+      <module name="Unit_Converter.Topics-Multi-dimensional_array-Theory.main" target="11" />
+      <module name="Unit_Converter.Topics-Overview_of_the_basic_program-Find_a_keyword.main" target="11" />
+      <module name="Unit_Converter.Topics-Overview_of_the_basic_program-I_like_Kotlin.main" target="11" />
+      <module name="Unit_Converter.Topics-Overview_of_the_basic_program-Multiple_statements.main" target="11" />
+      <module name="Unit_Converter.Topics-Overview_of_the_basic_program-Name_of_an_entry_point.main" target="11" />
+      <module name="Unit_Converter.Topics-Overview_of_the_basic_program-The_eternal_truth.main" target="11" />
+      <module name="Unit_Converter.Topics-Overview_of_the_basic_program-Theory.main" target="11" />
+      <module name="Unit_Converter.Topics-Overview_of_the_basic_program-Your_name.main" target="11" />
       <module name="Unit_Converter.Topics-Taming_exceptions-A_winning_car.main" target="11" />
       <module name="Unit_Converter.Topics-Taming_exceptions-Crash_a_program.main" target="11" />
       <module name="Unit_Converter.Topics-Taming_exceptions-Handle_arithmetic_exception.main" target="11" />
@@ -18,6 +49,16 @@
       <module name="Unit_Converter.Topics-Taming_exceptions-Practice.main" target="11" />
       <module name="Unit_Converter.Topics-Taming_exceptions-The_purpose_of_exceptions.main" target="11" />
       <module name="Unit_Converter.Topics-Taming_exceptions-Theory.main" target="11" />
+      <module name="Unit_Converter.Topics-Working_with_strings-Correct_operations.main" target="11" />
+      <module name="Unit_Converter.Topics-Working_with_strings-Extraction_of_a_character.main" target="11" />
+      <module name="Unit_Converter.Topics-Working_with_strings-N-th_symbol.main" target="11" />
+      <module name="Unit_Converter.Topics-Working_with_strings-Name_Card.main" target="11" />
+      <module name="Unit_Converter.Topics-Working_with_strings-Operations_and_truth.main" target="11" />
+      <module name="Unit_Converter.Topics-Working_with_strings-Statements.main" target="11" />
+      <module name="Unit_Converter.Topics-Working_with_strings-The_information_about_a_person.main" target="11" />
+      <module name="Unit_Converter.Topics-Working_with_strings-The_number_of_tens.main" target="11" />
+      <module name="Unit_Converter.Topics-Working_with_strings-The_same_line.main" target="11" />
+      <module name="Unit_Converter.Topics-Working_with_strings-Theory.main" target="11" />
       <module name="Unit_Converter.Unit_Converter-task-build-classes-java.main" target="11" />
       <module name="Unit_Converter.Unit_Converter-task-build-classes-kotlin.main" target="11" />
       <module name="Unit_Converter.Unit_Converter-task-build-generated-sources-annotationProcessor-java.main" target="11" />
